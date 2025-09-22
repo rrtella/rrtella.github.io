@@ -37,12 +37,12 @@ Rohan Gandhi, Debopam Bhattacherjee, **Tella Rajashekhar Reddy**<br>
 *Arxiv* | <a href="https://arxiv.org/pdf/2505.09989" target="_blank"><i class="fas fa-file-pdf pdf-icon"></i></a>
 
 ### BeLLMan: Controlling LLM Congestion 
-**Tella Rajashekhar Reddy**, Atharva Deshmukh, Karan Tandon, Rohan Gandhi, Anjaly Parayil, Debopam Bhattacherjee
+**Tella Rajashekhar Reddy**, Atharva Deshmukh, Karan Tandon, Rohan Gandhi, Anjaly Parayil, Debopam Bhattacherjee<br>
 *Arxiv* 
 <!-- | <a href="https://arxiv.org/pdf/2505.09989" target="_blank"><i class="fas fa-file-pdf pdf-icon"></i></a> -->
 
 ### Improving training time and GPU utilization in geo-distributed language model training 
-Palak, **Tella Rajashekhar Reddy**, Bhaskar Kataria, Rohan Gandhi, Karan Tandon, Debopam Bhattacherjee, Venkat N Padmanabhan
+Palak, **Tella Rajashekhar Reddy**, Bhaskar Kataria, Rohan Gandhi, Karan Tandon, Debopam Bhattacherjee, Venkat N Padmanabhan <br>
 *Arxiv* 
 <!-- | <a href="https://arxiv.org/pdf/2505.09989" target="_blank"><i class="fas fa-file-pdf pdf-icon"></i></a> -->
 
