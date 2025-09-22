@@ -16,17 +16,17 @@ See a full list on [Google Scholar](https://scholar.google.com/citations?user=2O
 
 ### Memory Efficient Routing of Large Language Model Inference Requests
 Rohan Gandhi, Debopam Bhattacherjee, **Tella Rajashekhar Reddy**<br> 
-*US Patent*
+*US Patent* Filed
 
 ---
 ### Cross-site Routing of Inference Workloads based on Predicted Power Availability
 **Tella Rajashekhar Reddy**, Palak, Rohan Gandhi, Anjaly Parayil, Chaojie Zhang, Liangcheng Yu, Jayashree Mohan, Srinivasan Iyengar, Shivkumar Kalyanaraman, Debopam Bhattacherjee  
-*US Patent*
+*US Patent* Filed
 
 ---
 ### A prompt-based interface for congestion control in LLMs
 **Tella Rajashekhar Reddy**, Atharva Deshmukh, Rohan Gandhi, Anjaly Parayil, Karan Tandon, Debopam Bhattacherjee  
-*US Patent*
+*US Patent* Filed
 
 ---
 
