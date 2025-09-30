@@ -68,7 +68,7 @@ Carlo Centofanti, Gudepu Venkateswarlu, José Santos, **Tella Rajashekhar Reddy*
 
 ---
 ### Demonstrating the energy consumption of radio access networks in container clouds 
-Venkateswarlu Gudepu, **Tella Rajashekhar Reddy**, Carlo Centofanti, José Santos, Andrea Marotta, Koteswararao Kondepu
+Venkateswarlu Gudepu, **Tella Rajashekhar Reddy**, Carlo Centofanti, José Santos, Andrea Marotta, Koteswararao Kondepu<br>
 *NOMS 2024* | <a href="https://mr-rajashekhar.github.io/files/2024_NOMS_Demo.pdf" target="_blank"><i class="fas fa-file-pdf pdf-icon"></i></a>
 
 ---
