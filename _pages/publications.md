@@ -35,10 +35,6 @@ Rohan Gandhi, Debopam Bhattacherjee, **Tella Rajashekhar Reddy**<br>
 ### AI Greenferencing: Routing AI Inferencing to Green Modular Data Centers with Heron  
 **Tella Rajashekhar Reddy**, Palak, Rohan Gandhi, Anjaly Parayil, Chaojie Zhang, Mike Shepperd, Liangcheng Yu, Jayashree Mohan, Srinivasan Iyengar, Shivkumar Kalyanaraman, Debopam Bhattacherjee  
 *Arxiv* | <a href="https://arxiv.org/pdf/2505.09989" target="_blank"><i class="fas fa-file-pdf pdf-icon"></i></a>
-
-### BeLLMan: Controlling LLM Congestion 
-**Tella Rajashekhar Reddy**, Atharva Deshmukh, Karan Tandon, Rohan Gandhi, Anjaly Parayil, Debopam Bhattacherjee<br>
-*Arxiv* 
 <!-- | <a href="https://arxiv.org/pdf/2505.09989" target="_blank"><i class="fas fa-file-pdf pdf-icon"></i></a> -->
 
 ### Improving training time and GPU utilization in geo-distributed language model training 
@@ -57,6 +53,11 @@ Shafiqul Hai, **Tella Rajashekhar Reddy**
 ---
 ## Conferences
 
+### BeLLMan: Controlling LLM Congestion 
+**Tella Rajashekhar Reddy**, Atharva Deshmukh, Karan Tandon, Rohan Gandhi, Anjaly Parayil, Debopam Bhattacherjee<br>
+*FAISYS 2025* | <a href="https://arxiv.org/pdf/2510.15330" target="_blank"><i class="fas fa-file-pdf pdf-icon"></i></a>
+
+---
 ### Resource Profiling for Virtualized Radio Access Networks 
 **Tella Rajashekhar Reddy**, Utkarsh Gupta, Gudepu Venkateswarlu, Venkatarami Reddy Chintapalli, Bheemarjuna Reddy Tamma, Koteswararao Kondepu  
 *ANTS 2024* | <a href="https://mr-rajashekhar.github.io/files/Resource_Profiling_for__Next_Generation__Radio_Access_Networks.pdf" target="_blank"><i class="fas fa-file-pdf pdf-icon"></i></a> | <a href="https://mr-rajashekhar.github.io/files/IEEE_ANTS_2024_SLIDES.pdf" target="_blank"><i class="fas fa-file-powerpoint pdf-icon"></i></a>
