@@ -39,7 +39,7 @@ Rohan Gandhi, Debopam Bhattacherjee, **Tella Rajashekhar Reddy**<br>
 
 ### Improving training time and GPU utilization in geo-distributed language model training 
 Palak, **Tella Rajashekhar Reddy**, Bhaskar Kataria, Rohan Gandhi, Karan Tandon, Debopam Bhattacherjee, Venkat N Padmanabhan <br>
-*Arxiv* 
+*Arxiv* | <a href="https://arxiv.org/pdf/2411.14458" target="_blank"><i class="fas fa-file-pdf pdf-icon"></i></a>
 <!-- | <a href="https://arxiv.org/pdf/2505.09989" target="_blank"><i class="fas fa-file-pdf pdf-icon"></i></a> -->
 
 ---
