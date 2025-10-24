@@ -48,7 +48,7 @@ Palak, **Tella Rajashekhar Reddy**, Bhaskar Kataria, Rohan Gandhi, Karan Tandon,
 
 ### FPGA implementation of an Image Classifier Using Pipelined FFT Architecture
 Shafiqul Hai, **Tella Rajashekhar Reddy**  
-*IEEE Embedded Systems Letters, 2024* | <a href="https://ieeexplore.ieee.org/abstract/document/10755115/" target="_blank"><i class="fas fa-file-pdf pdf-icon"></i></a>
+*IEEE Embedded Systems Letters, 2024* | <a href="https://mr-rajashekhar.github.io/files/FPGA_Implementation_of_an_Image_Classifier_Using_Pipelined_FFT_Architecture.pdf" target="_blank"><i class="fas fa-file-pdf pdf-icon"></i></a>
 
 ---
 ## Conferences
