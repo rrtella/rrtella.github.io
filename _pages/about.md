@@ -31,5 +31,5 @@ You can find my CV [here](https://rrtella.github.io/files/Rajashekhar_CV.pdf).
 {% endfor %}
 </ul>
 
-<a href="/news/" class="news-view-all">View all news →</a>
+<a href="/news/" class="news-view-all">View all news &rarr;</a>
 
