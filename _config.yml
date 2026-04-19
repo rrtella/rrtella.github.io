@@ -22,7 +22,7 @@ repository               : "rrtella/rrtella.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/raja.jpg"
+  avatar           : "raja.jpg"
   name             : "Tella Rajashekhar Reddy"
   pronouns         : # example: "she/her"  
   bio              : "Pre-Doc Fellow@Microsoft Research India."
