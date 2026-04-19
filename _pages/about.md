@@ -18,5 +18,18 @@ I was also selected as a [Globalink Research Intern](https://www.mitacs.ca/our-p
 
 I earned my **B.Tech. in Computer Science and Engineering** from IIT Dharwad in 2024. Outside of research, I enjoy playing badminton and maintaining a regular fitness routine.  
 
-You can find my CV [here](https://mr-rajashekhar.github.io/files/Rajashekhar_CV.pdf).
+You can find my CV [here](https://rrtella.github.io/files/Rajashekhar_CV.pdf).
+
+---
+
+## Recent News
+
+{% assign sorted_news = site.news | sort: 'date' | reverse %}
+<ul class="news-list news-list--homepage">
+{% for item in sorted_news limit:5 %}
+  {% include news-item.html date=item.date title=item.title description=item.description link=item.link icon=item.icon show_description=false %}
+{% endfor %}
+</ul>
+
+<a href="/news/" class="news-view-all">View all news →</a>
 

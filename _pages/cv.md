@@ -10,4 +10,4 @@ description: "CV of Tella Rajashekhar Reddy"
 keywords: "AI Infrastructure, Microsoft Research, Systems for ML, ML for Systems, IIT Dharwad, FPGA, RAN"
 ---
 
-You can find my CV [here](https://mr-rajashekhar.github.io/files/Rajashekhar_CV.pdf).
+You can find my CV [here](https://rrtella.github.io/files/Rajashekhar_CV.pdf).

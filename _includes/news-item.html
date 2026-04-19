@@ -1,0 +1,14 @@
+<li class="news-item">
+  <span class="news-date">{{ include.date | date: "%b %Y" }}</span>
+  <span class="news-icon">{{ include.icon | default: "📌" }}</span>
+  <span class="news-text">
+    {% if include.link %}
+      <a href="{{ include.link }}" target="_blank">{{ include.title }}</a>
+    {% else %}
+      {{ include.title }}
+    {% endif %}
+    {% if include.show_description == true and include.description %}
+      <span class="news-description">— {{ include.description }}</span>
+    {% endif %}
+  </span>
+</li>

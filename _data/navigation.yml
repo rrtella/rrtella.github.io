@@ -8,9 +8,18 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "News"
+    url: /news/
+
   - title: "Publications"
     url: /publications/  
-    
+
+  - title: "Blog"
+    url: /blog/
+
+  - title: "Projects"
+    url: /projects/
+
   - title: "CV"
     url: https://drive.google.com/file/d/1qQbuqyYevjNy76Gr2mLdlb7D53yPOCXe
     new_window: true
